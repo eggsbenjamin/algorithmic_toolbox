@@ -1,0 +1,850 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^    std::cin >> A[i];$/;"	l
+A	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^  vector<int> A(n);$/;"	p	file:	signature:(n)
+APlusB	week1_programming_challenges/1_sum_of_two_digits/APlusB.cs	/^namespace APlusB$/;"	n
+APlusB	week1_programming_challenges/1_sum_of_two_digits/APlusB.java	/^class APlusB {$/;"	c
+APlusB.Program	week1_programming_challenges/1_sum_of_two_digits/APlusB.cs	/^    class Program$/;"	c	namespace:APlusB
+APlusB.Program.Main	week1_programming_challenges/1_sum_of_two_digits/APlusB.cs	/^        static void Main(string[] args)$/;"	m	class:APlusB.Program	file:	access:private	signature:(string[] args)
+APlusB.main	week1_programming_challenges/1_sum_of_two_digits/APlusB.java	/^    public static void main(String[] args) {$/;"	m	class:APlusB	access:public	signature:(String[] args)
+APlusB.sumOfTwoDigits	week1_programming_challenges/1_sum_of_two_digits/APlusB.java	/^    static int sumOfTwoDigits(int first_digit, int second_digit) {$/;"	m	class:APlusB	access:default	signature:(int first_digit, int second_digit)
+BinarySearch	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^public class BinarySearch {$/;"	c
+BinarySearch.FastScanner	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    static class FastScanner {$/;"	c	class:BinarySearch	access:default
+BinarySearch.FastScanner.FastScanner	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        FastScanner(InputStream stream) {$/;"	m	class:BinarySearch.FastScanner	access:default	signature:(InputStream stream)
+BinarySearch.FastScanner.br	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        BufferedReader br;$/;"	f	class:BinarySearch.FastScanner	access:default
+BinarySearch.FastScanner.next	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        String next() {$/;"	m	class:BinarySearch.FastScanner	access:default	signature:()
+BinarySearch.FastScanner.nextInt	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        int nextInt() {$/;"	m	class:BinarySearch.FastScanner	access:default	signature:()
+BinarySearch.FastScanner.st	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        StringTokenizer st;$/;"	f	class:BinarySearch.FastScanner	access:default
+BinarySearch.binarySearch	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    static int binarySearch(int[] a, int x) {$/;"	m	class:BinarySearch	access:default	signature:(int[] a, int x)
+BinarySearch.linearSearch	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    static int linearSearch(int[] a, int x) {$/;"	m	class:BinarySearch	access:default	signature:(int[] a, int x)
+BinarySearch.main	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    public static void main(String[] args) {$/;"	m	class:BinarySearch	access:public	signature:(String[] args)
+Change	week3_greedy_algorithms/1_money_change/Change.java	/^public class Change {$/;"	c
+Change.getChange	week3_greedy_algorithms/1_money_change/Change.java	/^    private static int getChange(int m) {$/;"	m	class:Change	file:	access:private	signature:(int m)
+Change.main	week3_greedy_algorithms/1_money_change/Change.java	/^    public static void main(String[] args) {$/;"	m	class:Change	access:public	signature:(String[] args)
+ChangeDP	week5_dynamic_programming1/1_money_change_again/ChangeDP.java	/^public class ChangeDP {$/;"	c
+ChangeDP.getChange	week5_dynamic_programming1/1_money_change_again/ChangeDP.java	/^    private static int getChange(int m) {$/;"	m	class:ChangeDP	file:	access:private	signature:(int m)
+ChangeDP.main	week5_dynamic_programming1/1_money_change_again/ChangeDP.java	/^    public static void main(String[] args) {$/;"	m	class:ChangeDP	access:public	signature:(String[] args)
+Closest	week4_divide_and_conquer/6_closest_points/Closest.java	/^public class Closest {$/;"	c
+Closest.Point	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static class Point implements Comparable<Point> {$/;"	c	class:Closest	inherits:Comparable	access:default
+Closest.Point.Point	week4_divide_and_conquer/6_closest_points/Closest.java	/^        public Point(long x, long y) {$/;"	m	class:Closest.Point	access:public	signature:(long x, long y)
+Closest.Point.compareTo	week4_divide_and_conquer/6_closest_points/Closest.java	/^        public int compareTo(Point o) {$/;"	m	class:Closest.Point	access:public	signature:(Point o)
+Closest.Point.x	week4_divide_and_conquer/6_closest_points/Closest.java	/^        long x, y;$/;"	f	class:Closest.Point	access:default
+Closest.Point.y	week4_divide_and_conquer/6_closest_points/Closest.java	/^        long x, y;$/;"	f	class:Closest.Point	access:default
+Closest.main	week4_divide_and_conquer/6_closest_points/Closest.java	/^    public static void main(String[] args) throws Exception {$/;"	m	class:Closest	access:public	signature:(String[] args)
+Closest.minimalDistance	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static double minimalDistance(int[] x, int y[]) {$/;"	m	class:Closest	access:default	signature:(int[] x, int y[])
+Closest.next	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static String next() {$/;"	m	class:Closest	access:default	signature:()
+Closest.nextInt	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static int nextInt() {$/;"	m	class:Closest	access:default	signature:()
+Closest.reader	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static BufferedReader reader;$/;"	f	class:Closest	access:default
+Closest.tok	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static StringTokenizer tok = new StringTokenizer("");$/;"	f	class:Closest	access:default
+Closest.writer	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static PrintWriter writer;$/;"	f	class:Closest	access:default
+CoveringSegments	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^public class CoveringSegments {$/;"	c
+CoveringSegments.Segment	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^    private static class Segment {$/;"	c	class:CoveringSegments	access:private
+CoveringSegments.Segment.Segment	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^        Segment(int start, int end) {$/;"	m	class:CoveringSegments.Segment	access:default	signature:(int start, int end)
+CoveringSegments.Segment.end	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^        int start, end;$/;"	f	class:CoveringSegments.Segment	access:default
+CoveringSegments.Segment.start	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^        int start, end;$/;"	f	class:CoveringSegments.Segment	access:default
+CoveringSegments.main	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^    public static void main(String[] args) {$/;"	m	class:CoveringSegments	access:public	signature:(String[] args)
+CoveringSegments.optimalPoints	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^    private static int[] optimalPoints(Segment[] segments) {$/;"	m	class:CoveringSegments	file:	access:private	signature:(Segment[] segments)
+DifferentSummands	week3_greedy_algorithms/5_maximum_number_of_prizes/DifferentSummands.java	/^public class DifferentSummands {$/;"	c
+DifferentSummands.main	week3_greedy_algorithms/5_maximum_number_of_prizes/DifferentSummands.java	/^    public static void main(String[] args) {$/;"	m	class:DifferentSummands	access:public	signature:(String[] args)
+DifferentSummands.optimalSummands	week3_greedy_algorithms/5_maximum_number_of_prizes/DifferentSummands.java	/^    private static List<Integer> optimalSummands(int n) {$/;"	m	class:DifferentSummands	file:	access:private	signature:(int n)
+DotProduct	week3_greedy_algorithms/3_maximum_advertisement_revenue/DotProduct.java	/^public class DotProduct {$/;"	c
+DotProduct.main	week3_greedy_algorithms/3_maximum_advertisement_revenue/DotProduct.java	/^    public static void main(String[] args) {$/;"	m	class:DotProduct	access:public	signature:(String[] args)
+DotProduct.maxDotProduct	week3_greedy_algorithms/3_maximum_advertisement_revenue/DotProduct.java	/^    private static long maxDotProduct(int[] a, int[] b) {$/;"	m	class:DotProduct	file:	access:private	signature:(int[] a, int[] b)
+END	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^#define END /;"	d	file:
+EditDistance	week5_dynamic_programming1/3_edit_distance/EditDistance.java	/^  public static int EditDistance(String s, String t) {$/;"	m	class:EditDistance	access:public	signature:(String s, String t)
+EditDistance	week5_dynamic_programming1/3_edit_distance/EditDistance.java	/^class EditDistance {$/;"	c
+EditDistance.EditDistance	week5_dynamic_programming1/3_edit_distance/EditDistance.java	/^  public static int EditDistance(String s, String t) {$/;"	m	class:EditDistance	access:public	signature:(String s, String t)
+EditDistance.main	week5_dynamic_programming1/3_edit_distance/EditDistance.java	/^  public static void main(String args[]) {$/;"	m	class:EditDistance	access:public	signature:(String args[])
+FastScanner	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        FastScanner(InputStream stream) {$/;"	m	class:MaxPairwiseProduct.FastScanner	access:default	signature:(InputStream stream)
+FastScanner	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^    static class FastScanner {$/;"	c	class:MaxPairwiseProduct	access:default
+FastScanner	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        FastScanner(InputStream stream) {$/;"	m	class:BinarySearch.FastScanner	access:default	signature:(InputStream stream)
+FastScanner	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    static class FastScanner {$/;"	c	class:BinarySearch	access:default
+FastScanner	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        FastScanner(InputStream stream) {$/;"	m	class:MajorityElement.FastScanner	access:default	signature:(InputStream stream)
+FastScanner	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^    static class FastScanner {$/;"	c	class:MajorityElement	access:default
+FastScanner	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        FastScanner(InputStream stream) {$/;"	m	class:Sorting.FastScanner	access:default	signature:(InputStream stream)
+FastScanner	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    static class FastScanner {$/;"	c	class:Sorting	access:default
+Fibonacci	week2_algorithmic_warmup/1_fibonacci_number/Fibonacci.java	/^public class Fibonacci {$/;"	c
+Fibonacci.calc_fib	week2_algorithmic_warmup/1_fibonacci_number/Fibonacci.java	/^  private static long calc_fib(int n) {$/;"	m	class:Fibonacci	file:	access:private	signature:(int n)
+Fibonacci.main	week2_algorithmic_warmup/1_fibonacci_number/Fibonacci.java	/^  public static void main(String args[]) {$/;"	m	class:Fibonacci	access:public	signature:(String args[])
+FibonacciHuge	week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java	/^public class FibonacciHuge {$/;"	c
+FibonacciHuge.getFibonacciHugeNaive	week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java	/^    private static long getFibonacciHugeNaive(long n, long m) {$/;"	m	class:FibonacciHuge	file:	access:private	signature:(long n, long m)
+FibonacciHuge.main	week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciHuge	access:public	signature:(String[] args)
+FibonacciLastDigit	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit.java	/^public class FibonacciLastDigit {$/;"	c
+FibonacciLastDigit.getFibonacciLastDigitNaive	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit.java	/^    private static int getFibonacciLastDigitNaive(int n) {$/;"	m	class:FibonacciLastDigit	file:	access:private	signature:(int n)
+FibonacciLastDigit.main	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciLastDigit	access:public	signature:(String[] args)
+FibonacciPartialSum	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java	/^public class FibonacciPartialSum {$/;"	c
+FibonacciPartialSum.getFibonacciPartialSumNaive	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java	/^    private static long getFibonacciPartialSumNaive(long from, long to) {$/;"	m	class:FibonacciPartialSum	file:	access:private	signature:(long from, long to)
+FibonacciPartialSum.main	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciPartialSum	access:public	signature:(String[] args)
+FibonacciSumLastDigit	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java	/^public class FibonacciSumLastDigit {$/;"	c
+FibonacciSumLastDigit.getFibonacciSumNaive	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java	/^    private static long getFibonacciSumNaive(long n) {$/;"	m	class:FibonacciSumLastDigit	file:	access:private	signature:(long n)
+FibonacciSumLastDigit.main	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciSumLastDigit	access:public	signature:(String[] args)
+FibonacciSumSquares	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java	/^public class FibonacciSumSquares {$/;"	c
+FibonacciSumSquares.getFibonacciSumSquaresNaive	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java	/^    private static long getFibonacciSumSquaresNaive(long n) {$/;"	m	class:FibonacciSumSquares	file:	access:private	signature:(long n)
+FibonacciSumSquares.main	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciSumSquares	access:public	signature:(String[] args)
+FractionalKnapsack	week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java	/^public class FractionalKnapsack {$/;"	c
+FractionalKnapsack.getOptimalValue	week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java	/^    private static double getOptimalValue(int capacity, int[] values, int[] weights) {$/;"	m	class:FractionalKnapsack	file:	access:private	signature:(int capacity, int[] values, int[] weights)
+FractionalKnapsack.main	week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java	/^    public static void main(String args[]) {$/;"	m	class:FractionalKnapsack	access:public	signature:(String args[])
+GCD	week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java	/^public class GCD {$/;"	c
+GCD.gcd_naive	week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java	/^  private static int gcd_naive(int a, int b) {$/;"	m	class:GCD	file:	access:private	signature:(int a, int b)
+GCD.main	week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java	/^  public static void main(String args[]) {$/;"	m	class:GCD	access:public	signature:(String args[])
+Inversions	week4_divide_and_conquer/4_number_of_inversions/Inversions.java	/^public class Inversions {$/;"	c
+Inversions.getNumberOfInversions	week4_divide_and_conquer/4_number_of_inversions/Inversions.java	/^    private static long getNumberOfInversions(int[] a, int[] b, int left, int right) {$/;"	m	class:Inversions	file:	access:private	signature:(int[] a, int[] b, int left, int right)
+Inversions.main	week4_divide_and_conquer/4_number_of_inversions/Inversions.java	/^    public static void main(String[] args) {$/;"	m	class:Inversions	access:public	signature:(String[] args)
+Knapsack	week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java	/^public class Knapsack {$/;"	c
+Knapsack.main	week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java	/^    public static void main(String[] args) {$/;"	m	class:Knapsack	access:public	signature:(String[] args)
+Knapsack.optimalWeight	week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java	/^    static int optimalWeight(int W, int[] w) {$/;"	m	class:Knapsack	access:default	signature:(int W, int[] w)
+LCM	week2_algorithmic_warmup/4_least_common_multiple/LCM.java	/^public class LCM {$/;"	c
+LCM.lcm_naive	week2_algorithmic_warmup/4_least_common_multiple/LCM.java	/^  private static long lcm_naive(int a, int b) {$/;"	m	class:LCM	file:	access:private	signature:(int a, int b)
+LCM.main	week2_algorithmic_warmup/4_least_common_multiple/LCM.java	/^  public static void main(String args[]) {$/;"	m	class:LCM	access:public	signature:(String args[])
+LCS2	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java	/^public class LCS2 {$/;"	c
+LCS2.lcs2	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java	/^    private static int lcs2(int[] a, int[] b) {$/;"	m	class:LCS2	file:	access:private	signature:(int[] a, int[] b)
+LCS2.main	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java	/^    public static void main(String[] args) {$/;"	m	class:LCS2	access:public	signature:(String[] args)
+LCS3	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java	/^public class LCS3 {$/;"	c
+LCS3.lcs3	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java	/^    private static int lcs3(int[] a, int[] b, int[] c) {$/;"	m	class:LCS3	file:	access:private	signature:(int[] a, int[] b, int[] c)
+LCS3.main	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java	/^    public static void main(String[] args) {$/;"	m	class:LCS3	access:public	signature:(String[] args)
+LargestNumber	week3_greedy_algorithms/6_maximum_salary/LargestNumber.java	/^public class LargestNumber {$/;"	c
+LargestNumber.largestNumber	week3_greedy_algorithms/6_maximum_salary/LargestNumber.java	/^    private static String largestNumber(String[] a) {$/;"	m	class:LargestNumber	file:	access:private	signature:(String[] a)
+LargestNumber.main	week3_greedy_algorithms/6_maximum_salary/LargestNumber.java	/^    public static void main(String[] args) {$/;"	m	class:LargestNumber	access:public	signature:(String[] args)
+Main	week1_programming_challenges/1_sum_of_two_digits/APlusB.cs	/^        static void Main(string[] args)$/;"	m	class:APlusB.Program	file:	access:private	signature:(string[] args)
+MajorityElement	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^public class MajorityElement {$/;"	c
+MajorityElement.FastScanner	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^    static class FastScanner {$/;"	c	class:MajorityElement	access:default
+MajorityElement.FastScanner.FastScanner	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        FastScanner(InputStream stream) {$/;"	m	class:MajorityElement.FastScanner	access:default	signature:(InputStream stream)
+MajorityElement.FastScanner.br	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        BufferedReader br;$/;"	f	class:MajorityElement.FastScanner	access:default
+MajorityElement.FastScanner.next	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        String next() {$/;"	m	class:MajorityElement.FastScanner	access:default	signature:()
+MajorityElement.FastScanner.nextInt	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        int nextInt() {$/;"	m	class:MajorityElement.FastScanner	access:default	signature:()
+MajorityElement.FastScanner.st	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        StringTokenizer st;$/;"	f	class:MajorityElement.FastScanner	access:default
+MajorityElement.getMajorityElement	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^    private static int getMajorityElement(int[] a, int left, int right) {$/;"	m	class:MajorityElement	file:	access:private	signature:(int[] a, int left, int right)
+MajorityElement.main	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^    public static void main(String[] args) {$/;"	m	class:MajorityElement	access:public	signature:(String[] args)
+MaxPairwiseProduct	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^public class MaxPairwiseProduct {$/;"	c
+MaxPairwiseProduct	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^int MaxPairwiseProduct(const std::vector<int>& numbers) {$/;"	f	signature:(const std::vector<int>& numbers)
+MaxPairwiseProduct.FastScanner	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^    static class FastScanner {$/;"	c	class:MaxPairwiseProduct	access:default
+MaxPairwiseProduct.FastScanner.FastScanner	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        FastScanner(InputStream stream) {$/;"	m	class:MaxPairwiseProduct.FastScanner	access:default	signature:(InputStream stream)
+MaxPairwiseProduct.FastScanner.br	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        BufferedReader br;$/;"	f	class:MaxPairwiseProduct.FastScanner	access:default
+MaxPairwiseProduct.FastScanner.next	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        String next() {$/;"	m	class:MaxPairwiseProduct.FastScanner	access:default	signature:()
+MaxPairwiseProduct.FastScanner.nextInt	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        int nextInt() {$/;"	m	class:MaxPairwiseProduct.FastScanner	access:default	signature:()
+MaxPairwiseProduct.FastScanner.st	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        StringTokenizer st;$/;"	f	class:MaxPairwiseProduct.FastScanner	access:default
+MaxPairwiseProduct.getMaxPairwiseProduct	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^    static int getMaxPairwiseProduct(int[] numbers) {$/;"	m	class:MaxPairwiseProduct	access:default	signature:(int[] numbers)
+MaxPairwiseProduct.main	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^    public static void main(String[] args) {$/;"	m	class:MaxPairwiseProduct	access:public	signature:(String[] args)
+POINT	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^#define POINT /;"	d	file:
+Partition3	week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java	/^public class Partition3 {$/;"	c
+Partition3.main	week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java	/^    public static void main(String[] args) {$/;"	m	class:Partition3	access:public	signature:(String[] args)
+Partition3.partition3	week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java	/^    private static int partition3(int[] A) {$/;"	m	class:Partition3	file:	access:private	signature:(int[] A)
+PlacingParentheses	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^public class PlacingParentheses {$/;"	c
+PlacingParentheses.eval	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^    private static long eval(long a, long b, char op) {$/;"	m	class:PlacingParentheses	file:	access:private	signature:(long a, long b, char op)
+PlacingParentheses.getMaximValue	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^    private static long getMaximValue(String exp) {$/;"	m	class:PlacingParentheses	file:	access:private	signature:(String exp)
+PlacingParentheses.main	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^    public static void main(String[] args) {$/;"	m	class:PlacingParentheses	access:public	signature:(String[] args)
+Point	week4_divide_and_conquer/6_closest_points/Closest.java	/^        public Point(long x, long y) {$/;"	m	class:Closest.Point	access:public	signature:(long x, long y)
+Point	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static class Point implements Comparable<Point> {$/;"	c	class:Closest	inherits:Comparable	access:default
+PointsAndSegments	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^public class PointsAndSegments {$/;"	c
+PointsAndSegments.fastCountSegments	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^    private static int[] fastCountSegments(int[] starts, int[] ends, int[] points) {$/;"	m	class:PointsAndSegments	file:	access:private	signature:(int[] starts, int[] ends, int[] points)
+PointsAndSegments.main	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^    public static void main(String[] args) {$/;"	m	class:PointsAndSegments	access:public	signature:(String[] args)
+PointsAndSegments.naiveCountSegments	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^    private static int[] naiveCountSegments(int[] starts, int[] ends, int[] points) {$/;"	m	class:PointsAndSegments	file:	access:private	signature:(int[] starts, int[] ends, int[] points)
+PrimitiveCalculator	week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java	/^public class PrimitiveCalculator {$/;"	c
+PrimitiveCalculator.main	week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java	/^    public static void main(String[] args) {$/;"	m	class:PrimitiveCalculator	access:public	signature:(String[] args)
+PrimitiveCalculator.optimal_sequence	week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java	/^    private static List<Integer> optimal_sequence(int n) {$/;"	m	class:PrimitiveCalculator	file:	access:private	signature:(int n)
+Program	week1_programming_challenges/1_sum_of_two_digits/APlusB.cs	/^    class Program$/;"	c	namespace:APlusB
+START	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^#define START /;"	d	file:
+Segment	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^        Segment(int start, int end) {$/;"	m	class:CoveringSegments.Segment	access:default	signature:(int start, int end)
+Segment	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^    private static class Segment {$/;"	c	class:CoveringSegments	access:private
+Segment	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^struct Segment {$/;"	s	file:
+Segment	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^Segment = namedtuple('Segment', 'start end')$/;"	v
+Segment::end	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  int start, end;$/;"	m	struct:Segment	file:	access:public
+Segment::start	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  int start, end;$/;"	m	struct:Segment	file:	access:public
+Sorting	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^public class Sorting {$/;"	c
+Sorting.FastScanner	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    static class FastScanner {$/;"	c	class:Sorting	access:default
+Sorting.FastScanner.FastScanner	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        FastScanner(InputStream stream) {$/;"	m	class:Sorting.FastScanner	access:default	signature:(InputStream stream)
+Sorting.FastScanner.br	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        BufferedReader br;$/;"	f	class:Sorting.FastScanner	access:default
+Sorting.FastScanner.next	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        String next() {$/;"	m	class:Sorting.FastScanner	access:default	signature:()
+Sorting.FastScanner.nextInt	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        int nextInt() {$/;"	m	class:Sorting.FastScanner	access:default	signature:()
+Sorting.FastScanner.st	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        StringTokenizer st;$/;"	f	class:Sorting.FastScanner	access:default
+Sorting.main	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    public static void main(String[] args) {$/;"	m	class:Sorting	access:public	signature:(String[] args)
+Sorting.partition2	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static int partition2(int[] a, int l, int r) {$/;"	m	class:Sorting	file:	access:private	signature:(int[] a, int l, int r)
+Sorting.partition3	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static int[] partition3(int[] a, int l, int r) {$/;"	m	class:Sorting	file:	access:private	signature:(int[] a, int l, int r)
+Sorting.random	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static Random random = new Random();$/;"	f	class:Sorting	file:	access:private
+Sorting.randomizedQuickSort	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static void randomizedQuickSort(int[] a, int l, int r) {$/;"	m	class:Sorting	file:	access:private	signature:(int[] a, int l, int r)
+W	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^  int n, W;$/;"	l
+a	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^    int a = 0;$/;"	l
+a	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^    std::cin >> a;$/;"	l
+a	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^  int a, b;$/;"	l
+a	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^  int a, b;$/;"	l
+a	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^    std::cin >> a[i];$/;"	l
+a	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  vector<int> a(n), b(n);$/;"	p	file:	signature:(n)
+a	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^    a = data[1:(n + 1)]$/;"	v
+a	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^    ret << a[i];$/;"	l
+a	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^    std::cin >> a[i];$/;"	l
+a	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  vector<string> a(n);$/;"	p	file:	signature:(n)
+a	week3_greedy_algorithms/6_maximum_salary/largest_number.py	/^    a = data[1:]$/;"	v
+a	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^    std::cout << a[i] << ' ';$/;"	l
+a	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/submissions/binary_search.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/submissions/binary_search.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/submissions/inversions.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/submissions/inversions.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/submissions/majority_element.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/submissions/majority_element.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week4_divide_and_conquer/submissions/sorting.cpp	/^    std::cin >> a[i];$/;"	l
+a	week4_divide_and_conquer/submissions/sorting.cpp	/^    std::cout << a[i] << ' ';$/;"	l
+a	week4_divide_and_conquer/submissions/sorting.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^    std::cin >> a[i];$/;"	l
+a	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  vector<int> a(n);$/;"	p	file:	signature:(n)
+a	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^    std::cin >> a[i];$/;"	l
+a	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  vector<int> a(an);$/;"	p	file:	signature:(an)
+aType	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int aType = std::get<1>(a);$/;"	l
+aVal	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int aVal = std::get<0>(a);$/;"	l
+an	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  size_t an;$/;"	l
+an	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  std::cin >> an;$/;"	l
+b	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^    int b = 0;$/;"	l
+b	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^    std::cin >> b;$/;"	l
+b	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^  int a, b;$/;"	l
+b	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^  std::cin >> a >> b;$/;"	l
+b	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^  int a, b;$/;"	l
+b	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^  std::cin >> a >> b;$/;"	l
+b	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^    std::cin >> b[i];$/;"	l
+b	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  vector<int> a(n), b(n);$/;"	p	file:	signature:(n)
+b	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^    b = data[(n + 1):]$/;"	v
+b	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^    std::cin >> b[i];$/;"	l
+b	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  vector<int> b(m);$/;"	p	file:	signature:(m)
+b	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^  vector<int> b(a.size());$/;"	p	file:	signature:(a.size())
+b	week4_divide_and_conquer/4_number_of_inversions/inversions.py	/^    b = n * [0]$/;"	v
+b	week4_divide_and_conquer/submissions/binary_search.cpp	/^    std::cin >> b[i];$/;"	l
+b	week4_divide_and_conquer/submissions/binary_search.cpp	/^  vector<int> b(m);$/;"	p	file:	signature:(m)
+b	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^    std::cin >> b[i];$/;"	l
+b	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  vector<int> b(m);$/;"	p	file:	signature:(m)
+b	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^    std::cin >> b[i];$/;"	l
+b	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  vector<int> b(bn);$/;"	p	file:	signature:(bn)
+bType	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int bType = std::get<1>(b);$/;"	l
+bVal	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int bVal = std::get<0>(b);$/;"	l
+binarySearch	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    static int binarySearch(int[] a, int x) {$/;"	m	class:BinarySearch	access:default	signature:(int[] a, int x)
+binary_search	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^int binary_search(const vector<int> &a, int x) {$/;"	f	signature:(const vector<int> &a, int x)
+binary_search	week4_divide_and_conquer/1_binary_search/binary_search.py	/^def binary_search(a, x):$/;"	f	access:public
+binary_search	week4_divide_and_conquer/1_binary_search/by_learners/binary_search.rb	/^def binary_search(x, a)$/;"	f
+binary_search	week4_divide_and_conquer/submissions/binary_search.cpp	/^    std::cout << binary_search(a, b[i]) << ' ';$/;"	p	file:	signature:(a, b[i])
+binary_search	week4_divide_and_conquer/submissions/binary_search.cpp	/^int binary_search(const vector<int> &a, int x) {$/;"	f	signature:(const vector<int> &a, int x)
+binary_search	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^int binary_search(vector<tuple<int, int>> a, int x) {$/;"	f	signature:(vector<tuple<int, int>> a, int x)
+binary_search_inner	week4_divide_and_conquer/submissions/binary_search.cpp	/^int binary_search_inner(const vector<int> &a, int x, int left, int right) {$/;"	f	signature:(const vector<int> &a, int x, int left, int right)
+binary_search_inner	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^int binary_search_inner(vector<tuple<int, int>> a, int x, int left, int right) {$/;"	f	signature:(vector<tuple<int, int>> a, int x, int left, int right)
+binary_search_last	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^int binary_search_last(vector<int> a, int x, int left, int right) {$/;"	f	signature:(vector<int> a, int x, int left, int right)
+bn	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  size_t bn;$/;"	l
+bn	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  std::cin >> bn;$/;"	l
+br	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        BufferedReader br;$/;"	f	class:MaxPairwiseProduct.FastScanner	access:default
+br	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        BufferedReader br;$/;"	f	class:BinarySearch.FastScanner	access:default
+br	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        BufferedReader br;$/;"	f	class:MajorityElement.FastScanner	access:default
+br	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        BufferedReader br;$/;"	f	class:Sorting.FastScanner	access:default
+brute_force_minimal_distance	week4_divide_and_conquer/submissions/closest.cpp	/^double brute_force_minimal_distance(vector<point> points, double m) {$/;"	f	signature:(vector<point> points, double m)
+c	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^    int c = get_fibonacci_last_digit_naive(n);$/;"	l
+c	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^    std::cout << c << '\\n';$/;"	l
+c	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^    std::cin >> c[i];$/;"	l
+c	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  vector<int> c(cn);$/;"	p	file:	signature:(cn)
+calc_fib	week2_algorithmic_warmup/1_fibonacci_number/Fibonacci.java	/^  private static long calc_fib(int n) {$/;"	m	class:Fibonacci	file:	access:private	signature:(int n)
+calc_fib	week2_algorithmic_warmup/1_fibonacci_number/by_learners/fibonacci.rb	/^def calc_fib(n)$/;"	f
+calc_fib	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.py	/^def calc_fib(n):$/;"	f	access:public
+capacity	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  int capacity;$/;"	l
+capacity	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  std::cin >> n >> capacity;$/;"	l
+closerY	week4_divide_and_conquer/submissions/closest.cpp	/^  vector<point> closerY;$/;"	l
+cn	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  size_t cn;$/;"	l
+cn	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  std::cin >> cn;$/;"	l
+cnt	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^    std::cout << cnt[i] << ' ';$/;"	l
+cnt	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  vector<int> cnt = naive_count_segments(starts, ends, points);$/;"	l
+cnt	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  vector<int> cnt(points.size());$/;"	p	file:	signature:(points.size())
+cnt	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    cnt = naive_count_segments(starts, ends, points)$/;"	v
+cnt	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    std::cout << cnt[i] << ' ';$/;"	l
+cnt	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<int> cnt = fast_count_segments2(starts, ends, points);$/;"	l
+cnt	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<int> cnt(points.size());$/;"	p	file:	signature:(points.size())
+compareTo	week4_divide_and_conquer/6_closest_points/Closest.java	/^        public int compareTo(Point o) {$/;"	m	class:Closest.Point	access:public	signature:(Point o)
+contains?	week4_divide_and_conquer/5_organizing_a_lottery/by_learners/points_and_segments.rb	/^  def contains?(point)$/;"	f
+copy	week4_divide_and_conquer/4_number_of_inversions/by_learners/inversions.rb	/^def copy(a, b, l, r)$/;"	f
+count	week4_divide_and_conquer/submissions/inversions.cpp	/^  int count = 0;$/;"	l
+counts	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<int> counts(points.size());$/;"	p	file:	signature:(points.size())
+coverage	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int coverage = 0;$/;"	l
+current	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^    int current  = 1;$/;"	l
+current	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^    long long current  = 1;$/;"	l
+current	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^    long long current  = 1;$/;"	l
+current	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    long long current = 0;$/;"	l
+current	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^    long long current  = 1;$/;"	l
+current_gcd	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^  int current_gcd = 1;$/;"	l
+current_weight	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^  int current_weight = 0;$/;"	l
+d1	week4_divide_and_conquer/submissions/closest.cpp	/^  int d1 = minimal_distance(vector<point>(points.begin(), points.begin()+mid));$/;"	l
+d2	week4_divide_and_conquer/submissions/closest.cpp	/^  int d2 = minimal_distance(vector<point>(points.begin()+mid, points.end()));$/;"	l
+data	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py	/^    data = list(map(int, sys.stdin.read().split()))$/;"	v
+data	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^    data = list(map(int, input.split()))$/;"	v
+data	week3_greedy_algorithms/6_maximum_salary/largest_number.py	/^    data = input.split()$/;"	v
+data	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    data = list(map(int, input.split()))$/;"	v
+dist	week4_divide_and_conquer/submissions/closest.cpp	/^double dist(point p1, point p2) {$/;"	f	signature:(point p1, point p2)
+edit_distance	week5_dynamic_programming1/3_edit_distance/by_learners/edit_distance.rb	/^def edit_distance(a, b)$/;"	f
+edit_distance	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^int edit_distance(const string &str1, const string &str2) {$/;"	f	signature:(const string &str1, const string &str2)
+edit_distance	week5_dynamic_programming1/3_edit_distance/edit_distance.py	/^def edit_distance(s, t):$/;"	f	access:public
+end	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^        int start, end;$/;"	f	class:CoveringSegments.Segment	access:default
+end	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  int start, end;$/;"	m	struct:Segment	file:	access:public
+endl	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^  std::cout << gcd_naive(a, b) << std::endl;$/;"	m	class:std	file:
+endl	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^  std::cout << lcm_naive(a, b) << std::endl;$/;"	m	class:std	file:
+endl	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  std::cout << optimal_value << std::endl;$/;"	m	class:std	file:
+endl	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  std::cout << max_dot_product(a, b) << std::endl;$/;"	m	class:std	file:
+endl	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^  std::cout << sequence.size() - 1 << std::endl;$/;"	m	class:std	file:
+endl	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^  std::cout << edit_distance(str1, str2) << std::endl;$/;"	m	class:std	file:
+endl	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  std::cout << lcs2(a, b) << std::endl;$/;"	m	class:std	file:
+endl	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  std::cout << lcs3(a, b, c) << std::endl;$/;"	m	class:std	file:
+ends	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^    std::cin >> starts[i] >> ends[i];$/;"	l
+ends	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  vector<int> starts(n), ends(n);$/;"	p	file:	signature:(n)
+ends	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    ends   = data[3:2 * n + 2:2]$/;"	v
+ends	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    std::cin >> starts[i] >> ends[i];$/;"	l
+ends	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+ends	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<int> starts(n), ends(n);$/;"	p	file:	signature:(n)
+eval	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^    private static long eval(long a, long b, char op) {$/;"	m	class:PlacingParentheses	file:	access:private	signature:(long a, long b, char op)
+eval	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.cpp	/^long long eval(long long a, long long b, char op) {$/;"	f	signature:(long long a, long long b, char op)
+evalt	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py	/^def evalt(a, b, op):$/;"	f	access:public
+evaluate	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/by_learners/placing_parentheses.rb	/^def evaluate(a, op, b)$/;"	f
+expected	week4_divide_and_conquer/submissions/closest.cpp	/^    double expected;$/;"	m	struct:test	file:	access:public
+expected	week4_divide_and_conquer/submissions/inversions.cpp	/^    int expected;$/;"	m	struct:test	file:	access:public
+expected	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+fastCountSegments	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^    private static int[] fastCountSegments(int[] starts, int[] ends, int[] points) {$/;"	m	class:PointsAndSegments	file:	access:private	signature:(int[] starts, int[] ends, int[] points)
+fast_count_segments	week4_divide_and_conquer/5_organizing_a_lottery/by_learners/points_and_segments.rb	/^def fast_count_segments(segments, points)$/;"	f
+fast_count_segments	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^vector<int> fast_count_segments(vector<int> starts, vector<int> ends, vector<int> points) {$/;"	f	signature:(vector<int> starts, vector<int> ends, vector<int> points)
+fast_count_segments	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^def fast_count_segments(starts, ends, points):$/;"	f	access:public
+fast_count_segments	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^vector<int> fast_count_segments(vector<int> starts, vector<int> ends, vector<int> points) {$/;"	f	signature:(vector<int> starts, vector<int> ends, vector<int> points)
+fast_count_segments2	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^vector<int> fast_count_segments2(vector<int> starts, vector<int> ends, vector<int> points) {$/;"	f	signature:(vector<int> starts, vector<int> ends, vector<int> points)
+fib_huge	week2_algorithmic_warmup/5_fibonacci_number_again/by_learners/fibonacci_huge.rb	/^def fib_huge(n, m)$/;"	f
+fib_last_digit	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/by_learners/fibonacci_last_digit.rb	/^def fib_last_digit(n)$/;"	f
+fib_partial_sum	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/by_learners/fib_partial_sum.rb	/^def fib_partial_sum(m, n)$/;"	f
+fib_sum_last_digit	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/by_learners/fibonacci_sum_last_digit.rb	/^def fib_sum_last_digit(n)$/;"	f
+fibonacci_fast	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^int fibonacci_fast(int n) {$/;"	f	signature:(int n)
+fibonacci_naive	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^    std::cout << fibonacci_naive(n) << '\\n';$/;"	p	file:	signature:(n)
+fibonacci_naive	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^int fibonacci_naive(int n) {$/;"	f	signature:(int n)
+fibonacci_partial_sum_naive	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.py	/^def fibonacci_partial_sum_naive(from_, to):$/;"	f	access:public
+fibonacci_sum_naive	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^    std::cout << fibonacci_sum_naive(n);$/;"	p	file:	signature:(n)
+fibonacci_sum_naive	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^int fibonacci_sum_naive(long long n) {$/;"	f	signature:(long long n)
+fibonacci_sum_naive	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.py	/^def fibonacci_sum_naive(n):$/;"	f	access:public
+fibonacci_sum_squares_naive	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^    std::cout << fibonacci_sum_squares_naive(n);$/;"	p	file:	signature:(n)
+fibonacci_sum_squares_naive	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^int fibonacci_sum_squares_naive(long long n) {$/;"	f	signature:(long long n)
+fibonacci_sum_squares_naive	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.py	/^def fibonacci_sum_squares_naive(n):$/;"	f	access:public
+fixed	week4_divide_and_conquer/6_closest_points/closest.cpp	/^  std::cout << std::fixed;$/;"	m	class:std	file:
+fixed	week4_divide_and_conquer/submissions/closest.cpp	/^  std::cout << std::fixed;$/;"	m	class:std	file:
+from	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    long long from, to;$/;"	l
+gcd	week2_algorithmic_warmup/3_greatest_common_divisor/by_learners/gcd.rb	/^def gcd(a, b)$/;"	f
+gcd	week2_algorithmic_warmup/4_least_common_multiple/by_learners/lcm.rb	/^def gcd(a, b)$/;"	f
+gcd_naive	week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java	/^  private static int gcd_naive(int a, int b) {$/;"	m	class:GCD	file:	access:private	signature:(int a, int b)
+gcd_naive	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^int gcd_naive(int a, int b) {$/;"	f	signature:(int a, int b)
+gcd_naive	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.py	/^def gcd_naive(a, b):$/;"	f	access:public
+getChange	week3_greedy_algorithms/1_money_change/Change.java	/^    private static int getChange(int m) {$/;"	m	class:Change	file:	access:private	signature:(int m)
+getChange	week5_dynamic_programming1/1_money_change_again/ChangeDP.java	/^    private static int getChange(int m) {$/;"	m	class:ChangeDP	file:	access:private	signature:(int m)
+getFibonacciHugeNaive	week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java	/^    private static long getFibonacciHugeNaive(long n, long m) {$/;"	m	class:FibonacciHuge	file:	access:private	signature:(long n, long m)
+getFibonacciLastDigitNaive	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit.java	/^    private static int getFibonacciLastDigitNaive(int n) {$/;"	m	class:FibonacciLastDigit	file:	access:private	signature:(int n)
+getFibonacciPartialSumNaive	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java	/^    private static long getFibonacciPartialSumNaive(long from, long to) {$/;"	m	class:FibonacciPartialSum	file:	access:private	signature:(long from, long to)
+getFibonacciSumNaive	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java	/^    private static long getFibonacciSumNaive(long n) {$/;"	m	class:FibonacciSumLastDigit	file:	access:private	signature:(long n)
+getFibonacciSumSquaresNaive	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java	/^    private static long getFibonacciSumSquaresNaive(long n) {$/;"	m	class:FibonacciSumSquares	file:	access:private	signature:(long n)
+getMajorityElement	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^    private static int getMajorityElement(int[] a, int left, int right) {$/;"	m	class:MajorityElement	file:	access:private	signature:(int[] a, int left, int right)
+getMaxPairwiseProduct	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^    static int getMaxPairwiseProduct(int[] numbers) {$/;"	m	class:MaxPairwiseProduct	access:default	signature:(int[] numbers)
+getMaximValue	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^    private static long getMaximValue(String exp) {$/;"	m	class:PlacingParentheses	file:	access:private	signature:(String exp)
+getNumberOfInversions	week4_divide_and_conquer/4_number_of_inversions/Inversions.java	/^    private static long getNumberOfInversions(int[] a, int[] b, int left, int right) {$/;"	m	class:Inversions	file:	access:private	signature:(int[] a, int[] b, int left, int right)
+getOptimalValue	week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java	/^    private static double getOptimalValue(int capacity, int[] values, int[] weights) {$/;"	m	class:FractionalKnapsack	file:	access:private	signature:(int capacity, int[] values, int[] weights)
+get_change	week3_greedy_algorithms/1_money_change/by_learners/change.rb	/^def get_change(n)$/;"	f
+get_change	week3_greedy_algorithms/1_money_change/change.cpp	/^  std::cout << get_change(m) << '\\n';$/;"	p	file:	signature:(m)
+get_change	week3_greedy_algorithms/1_money_change/change.cpp	/^int get_change(int m) {$/;"	f	signature:(int m)
+get_change	week3_greedy_algorithms/1_money_change/change.py	/^def get_change(m):$/;"	f	access:public
+get_change	week5_dynamic_programming1/1_money_change_again/change_dp.cpp	/^  std::cout << get_change(m) << '\\n';$/;"	p	file:	signature:(m)
+get_change	week5_dynamic_programming1/1_money_change_again/change_dp.cpp	/^int get_change(int m) {$/;"	f	signature:(int m)
+get_change	week5_dynamic_programming1/1_money_change_again/change_dp.py	/^def get_change(m):$/;"	f	access:public
+get_fibonacci_huge_naive	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^    std::cout << get_fibonacci_huge_naive(n, m) << '\\n';$/;"	p	file:	signature:(n, m)
+get_fibonacci_huge_naive	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^long long get_fibonacci_huge_naive(long long n, long long m) {$/;"	f	signature:(long long n, long long m)
+get_fibonacci_huge_naive	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.py	/^def get_fibonacci_huge_naive(n, m):$/;"	f	access:public
+get_fibonacci_last_digit_naive	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^int get_fibonacci_last_digit_naive(int n) {$/;"	f	signature:(int n)
+get_fibonacci_last_digit_naive	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.py	/^def get_fibonacci_last_digit_naive(n):$/;"	f	access:public
+get_fibonacci_partial_sum_naive	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    std::cout << get_fibonacci_partial_sum_naive(from, to) << '\\n';$/;"	p	file:	signature:(from, to)
+get_fibonacci_partial_sum_naive	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^long long get_fibonacci_partial_sum_naive(long long from, long long to) {$/;"	f	signature:(long long from, long long to)
+get_majority_element	week4_divide_and_conquer/2_majority_element/by_learners/majority_element.rb	/^def get_majority_element(a, left, right)$/;"	f
+get_majority_element	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^  std::cout << (get_majority_element(a, 0, a.size()) != -1) << '\\n';$/;"	p	class:std	file:	signature:(a, 0, a.size())
+get_majority_element	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^int get_majority_element(vector<int> &a, int left, int right) {$/;"	f	signature:(vector<int> &a, int left, int right)
+get_majority_element	week4_divide_and_conquer/2_majority_element/majority_element.py	/^def get_majority_element(a, left, right):$/;"	f	access:public
+get_majority_element	week4_divide_and_conquer/submissions/majority_element.cpp	/^  std::cout << (get_majority_element(a) != -1) << '\\n';$/;"	p	class:std	file:	signature:(a)
+get_majority_element	week4_divide_and_conquer/submissions/majority_element.cpp	/^int get_majority_element(vector<int> a) {$/;"	f	signature:(vector<int> a)
+get_maximum_value	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/by_learners/placing_parentheses.rb	/^def get_maximum_value(numbers, operations)$/;"	f
+get_maximum_value	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.cpp	/^  std::cout << get_maximum_value(s) << '\\n';$/;"	p	file:	signature:(s)
+get_maximum_value	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.cpp	/^long long get_maximum_value(const string &exp) {$/;"	f	signature:(const string &exp)
+get_maximum_value	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py	/^def get_maximum_value(dataset):$/;"	f	access:public
+get_number_of_inversions	week4_divide_and_conquer/4_number_of_inversions/by_learners/inversions.rb	/^def get_number_of_inversions(a, b, left, right)$/;"	f
+get_number_of_inversions	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^  std::cout << get_number_of_inversions(a, b, 0, a.size()) << '\\n';$/;"	p	file:	signature:(a, b, 0, a.size())
+get_number_of_inversions	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^long long get_number_of_inversions(vector<int> &a, vector<int> &b, size_t left, size_t right) {$/;"	f	signature:(vector<int> &a, vector<int> &b, size_t left, size_t right)
+get_number_of_inversions	week4_divide_and_conquer/4_number_of_inversions/inversions.py	/^def get_number_of_inversions(a, b, left, right):$/;"	f	access:public
+get_optimal_value	week3_greedy_algorithms/2_maximum_value_of_the_loot/by_learners/fractional_knapsack.rb	/^def get_optimal_value(capacity, weights, values)$/;"	f
+get_optimal_value	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^double get_optimal_value(int capacity, vector<int> weights, vector<int> values) {$/;"	f	signature:(int capacity, vector<int> weights, vector<int> values)
+get_optimal_value	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py	/^def get_optimal_value(capacity, weights, values):$/;"	f	access:public
+hoarePartition	week4_divide_and_conquer/submissions/sorting.cpp	/^int hoarePartition(vector<int> &a, int l, int r) {$/;"	f	signature:(vector<int> &a, int l, int r)
+i	week4_divide_and_conquer/submissions/inversions.cpp	/^  int i = low;$/;"	l
+i	week4_divide_and_conquer/submissions/sorting.cpp	/^  int x=a[l],i=l-1,j=r+1;$/;"	l
+input	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.py	/^    input = sys.stdin.read()$/;"	v
+input	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.py	/^    input = sys.stdin.read()$/;"	v
+input	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.py	/^    input = sys.stdin.read();$/;"	v
+input	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.py	/^    input = sys.stdin.read()$/;"	v
+input	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.py	/^    input = sys.stdin.read();$/;"	v
+input	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^    input = sys.stdin.read()$/;"	v
+input	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^    input = sys.stdin.read()$/;"	v
+input	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.py	/^    input = sys.stdin.read()$/;"	v
+input	week3_greedy_algorithms/6_maximum_salary/largest_number.py	/^    input = sys.stdin.read()$/;"	v
+input	week4_divide_and_conquer/3_improving_quicksort/sorting.py	/^    input = sys.stdin.read()$/;"	v
+input	week4_divide_and_conquer/4_number_of_inversions/inversions.py	/^    input = sys.stdin.read()$/;"	v
+input	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    input = sys.stdin.read()$/;"	v
+input	week4_divide_and_conquer/submissions/inversions.cpp	/^    vector<int> input;$/;"	m	struct:test	file:	access:public
+input	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py	/^input = sys.stdin.read()$/;"	v
+input	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py	/^    input = sys.stdin.read()$/;"	v
+input	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py	/^    input = sys.stdin.read()$/;"	v
+input_n	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py	/^    input_n = int(input())$/;"	v
+input_numbers	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py	/^    input_numbers = [int(x) for x in input().split()]$/;"	v
+itertools	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py	/^import itertools$/;"	i
+j	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  int j = l;$/;"	l
+j	week4_divide_and_conquer/submissions/inversions.cpp	/^  int j = mid+1;$/;"	l
+j	week4_divide_and_conquer/submissions/sorting.cpp	/^  int j = l;$/;"	l
+j	week4_divide_and_conquer/submissions/sorting.cpp	/^  int x=a[l],i=l-1,j=r+1;$/;"	l
+k	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  int k = l + rand() % (r - l + 1);$/;"	l
+k	week4_divide_and_conquer/submissions/inversions.cpp	/^  int k = 0;$/;"	l
+k	week4_divide_and_conquer/submissions/sorting.cpp	/^  int k = l + rand() % (r - l + 1);$/;"	l
+k	week4_divide_and_conquer/submissions/sorting.cpp	/^  int k = l;$/;"	l
+largestNumber	week3_greedy_algorithms/6_maximum_salary/LargestNumber.java	/^    private static String largestNumber(String[] a) {$/;"	m	class:LargestNumber	file:	access:private	signature:(String[] a)
+largest_number	week3_greedy_algorithms/6_maximum_salary/by_learners/largest_number.rb	/^def largest_number(a)$/;"	f
+largest_number	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  std::cout << largest_number(a);$/;"	p	file:	signature:(a)
+largest_number	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^string largest_number(vector<string> a) {$/;"	f	signature:(vector<string> a)
+largest_number	week3_greedy_algorithms/6_maximum_salary/largest_number.py	/^def largest_number(a):$/;"	f	access:public
+lcm	week2_algorithmic_warmup/4_least_common_multiple/by_learners/lcm.rb	/^def lcm(a, b)$/;"	f
+lcm_naive	week2_algorithmic_warmup/4_least_common_multiple/LCM.java	/^  private static long lcm_naive(int a, int b) {$/;"	m	class:LCM	file:	access:private	signature:(int a, int b)
+lcm_naive	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^long long lcm_naive(int a, int b) {$/;"	f	signature:(int a, int b)
+lcm_naive	week2_algorithmic_warmup/4_least_common_multiple/lcm.py	/^def lcm_naive(a, b):$/;"	f	access:public
+lcs2	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java	/^    private static int lcs2(int[] a, int[] b) {$/;"	m	class:LCS2	file:	access:private	signature:(int[] a, int[] b)
+lcs2	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^int lcs2(vector<int> &a, vector<int> &b) {$/;"	f	signature:(vector<int> &a, vector<int> &b)
+lcs2	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.py	/^def lcs2(a, b):$/;"	f	access:public
+lcs3	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java	/^    private static int lcs3(int[] a, int[] b, int[] c) {$/;"	m	class:LCS3	file:	access:private	signature:(int[] a, int[] b, int[] c)
+lcs3	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/by_learners/lcs3.rb	/^def lcs3(a, b, c)$/;"	f
+lcs3	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^int lcs3(vector<int> &a, vector<int> &b, vector<int> &c) {$/;"	f	signature:(vector<int> &a, vector<int> &b, vector<int> &c)
+lcs3	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py	/^def lcs3(a, b, c):$/;"	f	access:public
+left	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  int left = 0, right = (int)a.size(); $/;"	l
+linearSearch	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    static int linearSearch(int[] a, int x) {$/;"	m	class:BinarySearch	access:default	signature:(int[] a, int x)
+linear_search	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^    std::cout << linear_search(a, b[i]) << ' ';$/;"	p	file:	signature:(a, b[i])
+linear_search	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^int linear_search(const vector<int> &a, int x) {$/;"	f	signature:(const vector<int> &a, int x)
+linear_search	week4_divide_and_conquer/1_binary_search/binary_search.py	/^def linear_search(a, x):$/;"	f	access:public
+linear_search	week4_divide_and_conquer/submissions/binary_search.cpp	/^int linear_search(const vector<int> &a, int x) {$/;"	f	signature:(const vector<int> &a, int x)
+lower_or_equal_count	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^int lower_or_equal_count(vector<int> a, int x) {$/;"	f	signature:(vector<int> a, int x)
+m	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^    long long n, m;$/;"	l
+m	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^    std::cin >> n >> m;$/;"	l
+m	week3_greedy_algorithms/1_money_change/change.cpp	/^  int m;$/;"	l
+m	week3_greedy_algorithms/1_money_change/change.cpp	/^  std::cin >> m;$/;"	l
+m	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  int m;$/;"	l
+m	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  std::cin >> m;$/;"	l
+m	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  int m = partition2(a, l, r);$/;"	l
+m	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  int n, m;$/;"	l
+m	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  std::cin >> n >> m;$/;"	l
+m	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    m = data[1]$/;"	v
+m	week4_divide_and_conquer/submissions/binary_search.cpp	/^  int m;$/;"	l
+m	week4_divide_and_conquer/submissions/binary_search.cpp	/^  std::cin >> m;$/;"	l
+m	week4_divide_and_conquer/submissions/closest.cpp	/^  double m = min(d1, d2);$/;"	l
+m	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int n, m;$/;"	l
+m	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::cin >> n >> m;$/;"	l
+m	week4_divide_and_conquer/submissions/sorting.cpp	/^  int m = hoarePartition(a, l, r);$/;"	l
+m	week5_dynamic_programming1/1_money_change_again/change_dp.cpp	/^  int m;$/;"	l
+m	week5_dynamic_programming1/1_money_change_again/change_dp.cpp	/^  std::cin >> m;$/;"	l
+m	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  size_t m;$/;"	l
+m	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  std::cin >> m;$/;"	l
+main	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^int main() {$/;"	f	signature:()
+main	week1_programming_challenges/1_sum_of_two_digits/APlusB.java	/^    public static void main(String[] args) {$/;"	m	class:APlusB	access:public	signature:(String[] args)
+main	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^    public static void main(String[] args) {$/;"	m	class:MaxPairwiseProduct	access:public	signature:(String[] args)
+main	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/1_fibonacci_number/Fibonacci.java	/^  public static void main(String args[]) {$/;"	m	class:Fibonacci	access:public	signature:(String args[])
+main	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/FibonacciLastDigit.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciLastDigit	access:public	signature:(String[] args)
+main	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/3_greatest_common_divisor/GCD.java	/^  public static void main(String args[]) {$/;"	m	class:GCD	access:public	signature:(String args[])
+main	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/4_least_common_multiple/LCM.java	/^  public static void main(String args[]) {$/;"	m	class:LCM	access:public	signature:(String args[])
+main	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/5_fibonacci_number_again/FibonacciHuge.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciHuge	access:public	signature:(String[] args)
+main	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/FibonacciSumLastDigit.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciSumLastDigit	access:public	signature:(String[] args)
+main	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/FibonacciPartialSum.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciPartialSum	access:public	signature:(String[] args)
+main	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^int main() {$/;"	f	signature:()
+main	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/FibonacciSumSquares.java	/^    public static void main(String[] args) {$/;"	m	class:FibonacciSumSquares	access:public	signature:(String[] args)
+main	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^int main() {$/;"	f	signature:()
+main	week3_greedy_algorithms/1_money_change/Change.java	/^    public static void main(String[] args) {$/;"	m	class:Change	access:public	signature:(String[] args)
+main	week3_greedy_algorithms/1_money_change/change.cpp	/^int main() {$/;"	f	signature:()
+main	week3_greedy_algorithms/2_maximum_value_of_the_loot/FractionalKnapsack.java	/^    public static void main(String args[]) {$/;"	m	class:FractionalKnapsack	access:public	signature:(String args[])
+main	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^int main() {$/;"	f	signature:()
+main	week3_greedy_algorithms/3_maximum_advertisement_revenue/DotProduct.java	/^    public static void main(String[] args) {$/;"	m	class:DotProduct	access:public	signature:(String[] args)
+main	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^int main() {$/;"	f	signature:()
+main	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^    public static void main(String[] args) {$/;"	m	class:CoveringSegments	access:public	signature:(String[] args)
+main	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^int main() {$/;"	f	signature:()
+main	week3_greedy_algorithms/5_maximum_number_of_prizes/DifferentSummands.java	/^    public static void main(String[] args) {$/;"	m	class:DifferentSummands	access:public	signature:(String[] args)
+main	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^int main() {$/;"	f	signature:()
+main	week3_greedy_algorithms/6_maximum_salary/LargestNumber.java	/^    public static void main(String[] args) {$/;"	m	class:LargestNumber	access:public	signature:(String[] args)
+main	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^    public static void main(String[] args) {$/;"	m	class:BinarySearch	access:public	signature:(String[] args)
+main	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^    public static void main(String[] args) {$/;"	m	class:MajorityElement	access:public	signature:(String[] args)
+main	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    public static void main(String[] args) {$/;"	m	class:Sorting	access:public	signature:(String[] args)
+main	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/4_number_of_inversions/Inversions.java	/^    public static void main(String[] args) {$/;"	m	class:Inversions	access:public	signature:(String[] args)
+main	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^    public static void main(String[] args) {$/;"	m	class:PointsAndSegments	access:public	signature:(String[] args)
+main	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/6_closest_points/Closest.java	/^    public static void main(String[] args) throws Exception {$/;"	m	class:Closest	access:public	signature:(String[] args)
+main	week4_divide_and_conquer/6_closest_points/closest.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/submissions/binary_search.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/submissions/closest.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/submissions/inversions.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/submissions/majority_element.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^int main() {$/;"	f	signature:()
+main	week4_divide_and_conquer/submissions/sorting.cpp	/^int main() {$/;"	f	signature:()
+main	week5_dynamic_programming1/1_money_change_again/ChangeDP.java	/^    public static void main(String[] args) {$/;"	m	class:ChangeDP	access:public	signature:(String[] args)
+main	week5_dynamic_programming1/1_money_change_again/change_dp.cpp	/^int main() {$/;"	f	signature:()
+main	week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java	/^    public static void main(String[] args) {$/;"	m	class:PrimitiveCalculator	access:public	signature:(String[] args)
+main	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^int main() {$/;"	f	signature:()
+main	week5_dynamic_programming1/3_edit_distance/EditDistance.java	/^  public static void main(String args[]) {$/;"	m	class:EditDistance	access:public	signature:(String args[])
+main	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^int main() {$/;"	f	signature:()
+main	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/LCS2.java	/^    public static void main(String[] args) {$/;"	m	class:LCS2	access:public	signature:(String[] args)
+main	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^int main() {$/;"	f	signature:()
+main	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/LCS3.java	/^    public static void main(String[] args) {$/;"	m	class:LCS3	access:public	signature:(String[] args)
+main	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^int main() {$/;"	f	signature:()
+main	week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java	/^    public static void main(String[] args) {$/;"	m	class:Knapsack	access:public	signature:(String[] args)
+main	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^int main() {$/;"	f	signature:()
+main	week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java	/^    public static void main(String[] args) {$/;"	m	class:Partition3	access:public	signature:(String[] args)
+main	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^int main() {$/;"	f	signature:()
+main	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/PlacingParentheses.java	/^    public static void main(String[] args) {$/;"	m	class:PlacingParentheses	access:public	signature:(String[] args)
+main	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.cpp	/^int main() {$/;"	f	signature:()
+math	week4_divide_and_conquer/6_closest_points/closest.py	/^import math$/;"	i
+maxDotProduct	week3_greedy_algorithms/3_maximum_advertisement_revenue/DotProduct.java	/^    private static long maxDotProduct(int[] a, int[] b) {$/;"	m	class:DotProduct	file:	access:private	signature:(int[] a, int[] b)
+max_dot_product	week3_greedy_algorithms/3_maximum_advertisement_revenue/by_learners/dot_rpoduct.rb	/^def max_dot_product(a, b)$/;"	f
+max_dot_product	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^long long max_dot_product(vector<int> a, vector<int> b) {$/;"	f	signature:(vector<int> a, vector<int> b)
+max_dot_product	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^def max_dot_product(a, b):$/;"	f	access:public
+max_pairwise_product	week1_programming_challenges/2_maximum_pairwise_product/by_learners/max_pairwise_product.rb	/^def max_pairwise_product(a)$/;"	f
+max_pairwise_product	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py	/^def max_pairwise_product(numbers):$/;"	f	access:public
+max_product	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    int max_product = 0;$/;"	l
+merge	week4_divide_and_conquer/submissions/inversions.cpp	/^int merge(int *a, int low, int mid, int high) {$/;"	f	signature:(int *a, int low, int mid, int high)
+merge_sort	week4_divide_and_conquer/submissions/inversions.cpp	/^int merge_sort(int* a, int low, int high) {$/;"	f	signature:(int* a, int low, int high)
+mid	week4_divide_and_conquer/submissions/binary_search.cpp	/^  int mid = left+(right-left)\/2;$/;"	l
+mid	week4_divide_and_conquer/submissions/closest.cpp	/^  int mid = points.size()\/2;$/;"	l
+mid	week4_divide_and_conquer/submissions/inversions.cpp	/^  int mid = (low+high)\/2;$/;"	l
+mid	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int mid = left+(right-left)\/2;$/;"	l
+min	week4_divide_and_conquer/6_closest_points/by_learners/closest.rb	/^def min(a, b)$/;"	f
+minMaj	week4_divide_and_conquer/submissions/majority_element.cpp	/^  int minMaj = a.size()\/2+1;$/;"	l
+minimalDistance	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static double minimalDistance(int[] x, int y[]) {$/;"	m	class:Closest	access:default	signature:(int[] x, int y[])
+minimal_distance	week4_divide_and_conquer/6_closest_points/closest.cpp	/^double minimal_distance(vector<int> x, vector<int> y) {$/;"	f	signature:(vector<int> x, vector<int> y)
+minimal_distance	week4_divide_and_conquer/submissions/closest.cpp	/^double minimal_distance(vector<point> points) {$/;"	f	signature:(vector<point> points)
+minimum_distance	week4_divide_and_conquer/6_closest_points/by_learners/closest.rb	/^def minimum_distance(x, y)$/;"	f
+minimum_distance	week4_divide_and_conquer/6_closest_points/closest.py	/^def minimum_distance(x, y):$/;"	f	access:public
+minimum_operations	week5_dynamic_programming1/2_primitive_calculator/by_learners/primitive_calculator.rb	/^def minimum_operations(n)$/;"	f
+n	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    int n = numbers.size();$/;"	l
+n	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    int n;$/;"	l
+n	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    std::cin >> n;$/;"	l
+n	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^    int n = 0;$/;"	l
+n	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^    std::cin >> n;$/;"	l
+n	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.py	/^n = int(input())$/;"	v
+n	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^    int n;$/;"	l
+n	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^    std::cin >> n;$/;"	l
+n	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.py	/^    n = int(input)$/;"	v
+n	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^    long long n, m;$/;"	l
+n	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^    long long n = 0;$/;"	l
+n	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^    std::cin >> n;$/;"	l
+n	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.py	/^    n = int(input)$/;"	v
+n	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^    long long n = 0;$/;"	l
+n	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^    std::cin >> n;$/;"	l
+n	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.py	/^    n = int(stdin.read())$/;"	v
+n	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  int n;$/;"	l
+n	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  size_t n;$/;"	l
+n	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  std::cin >> n;$/;"	l
+n	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^    n = data[0]$/;"	v
+n	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  int n;$/;"	l
+n	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  std::cin >> n;$/;"	l
+n	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^  int n;$/;"	l
+n	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^  std::cin >> n;$/;"	l
+n	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.py	/^    n = int(input)$/;"	v
+n	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  int n;$/;"	l
+n	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  int n, m;$/;"	l
+n	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    n = data[0]$/;"	v
+n	week4_divide_and_conquer/6_closest_points/closest.cpp	/^  size_t n;$/;"	l
+n	week4_divide_and_conquer/6_closest_points/closest.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/submissions/binary_search.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/submissions/binary_search.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/submissions/closest.cpp	/^  size_t n;$/;"	l
+n	week4_divide_and_conquer/submissions/closest.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/submissions/inversions.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/submissions/inversions.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/submissions/majority_element.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/submissions/majority_element.cpp	/^  std::cin >> n;$/;"	l
+n	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int n, m;$/;"	l
+n	week4_divide_and_conquer/submissions/sorting.cpp	/^  int n;$/;"	l
+n	week4_divide_and_conquer/submissions/sorting.cpp	/^  std::cin >> n;$/;"	l
+n	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^  int n;$/;"	l
+n	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^  std::cin >> n;$/;"	l
+n	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py	/^n = int(input)$/;"	v
+n	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  size_t n;$/;"	l
+n	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  std::cin >> n;$/;"	l
+n	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^  int n, W;$/;"	l
+n	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^  std::cin >> W >> n;$/;"	l
+n	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^  int n;$/;"	l
+n	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^  std::cin >> n;$/;"	l
+naiveCountSegments	week4_divide_and_conquer/5_organizing_a_lottery/PointsAndSegments.java	/^    private static int[] naiveCountSegments(int[] starts, int[] ends, int[] points) {$/;"	m	class:PointsAndSegments	file:	access:private	signature:(int[] starts, int[] ends, int[] points)
+naive_count_segments	week4_divide_and_conquer/5_organizing_a_lottery/by_learners/points_and_segments.rb	/^def naive_count_segments(segments, points)$/;"	f
+naive_count_segments	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^vector<int> naive_count_segments(vector<int> starts, vector<int> ends, vector<int> points) {$/;"	f	signature:(vector<int> starts, vector<int> ends, vector<int> points)
+naive_count_segments	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^def naive_count_segments(starts, ends, points):$/;"	f	access:public
+naive_count_segments	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^vector<int> naive_count_segments(vector<int> starts, vector<int> ends, vector<int> points) {$/;"	f	signature:(vector<int> starts, vector<int> ends, vector<int> points)
+namedtuple	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^from collections import namedtuple$/;"	i
+new_current	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^        long long new_current = next;$/;"	l
+next	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        String next() {$/;"	m	class:MaxPairwiseProduct.FastScanner	access:default	signature:()
+next	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    long long next  = 1;$/;"	l
+next	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        String next() {$/;"	m	class:BinarySearch.FastScanner	access:default	signature:()
+next	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        String next() {$/;"	m	class:MajorityElement.FastScanner	access:default	signature:()
+next	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        String next() {$/;"	m	class:Sorting.FastScanner	access:default	signature:()
+next	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static String next() {$/;"	m	class:Closest	access:default	signature:()
+nextInt	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        int nextInt() {$/;"	m	class:MaxPairwiseProduct.FastScanner	access:default	signature:()
+nextInt	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        int nextInt() {$/;"	m	class:BinarySearch.FastScanner	access:default	signature:()
+nextInt	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        int nextInt() {$/;"	m	class:MajorityElement.FastScanner	access:default	signature:()
+nextInt	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        int nextInt() {$/;"	m	class:Sorting.FastScanner	access:default	signature:()
+nextInt	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static int nextInt() {$/;"	m	class:Closest	access:default	signature:()
+number_of_inversions	week4_divide_and_conquer/4_number_of_inversions/inversions.cpp	/^  long long number_of_inversions = 0;$/;"	l
+numbers	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^        std::cin >> numbers[i];$/;"	l
+numbers	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    std::vector<int> numbers(n);$/;"	p	file:	signature:(n)
+opt_value	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py	/^    opt_value = get_optimal_value(capacity, weights, values)$/;"	v
+optimalPoints	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^    private static int[] optimalPoints(Segment[] segments) {$/;"	m	class:CoveringSegments	file:	access:private	signature:(Segment[] segments)
+optimalSummands	week3_greedy_algorithms/5_maximum_number_of_prizes/DifferentSummands.java	/^    private static List<Integer> optimalSummands(int n) {$/;"	m	class:DifferentSummands	file:	access:private	signature:(int n)
+optimalWeight	week6_dynamic_programming2/1_maximum_amount_of_gold/Knapsack.java	/^    static int optimalWeight(int W, int[] w) {$/;"	m	class:Knapsack	access:default	signature:(int W, int[] w)
+optimal_points	week3_greedy_algorithms/4_collecting_signatures/by_learners/covering_segments.rb	/^def optimal_points(segments)$/;"	f
+optimal_points	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^vector<int> optimal_points(vector<Segment> &segments) {$/;"	f	signature:(vector<Segment> &segments)
+optimal_points	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^def optimal_points(segments):$/;"	f	access:public
+optimal_sequence	week5_dynamic_programming1/2_primitive_calculator/PrimitiveCalculator.java	/^    private static List<Integer> optimal_sequence(int n) {$/;"	m	class:PrimitiveCalculator	file:	access:private	signature:(int n)
+optimal_sequence	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^vector<int> optimal_sequence(int n) {$/;"	f	signature:(int n)
+optimal_sequence	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py	/^def optimal_sequence(n):$/;"	f	access:public
+optimal_summands	week3_greedy_algorithms/5_maximum_number_of_prizes/by_learners/different_summands.rb	/^def optimal_summands(n)$/;"	f
+optimal_summands	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^vector<int> optimal_summands(int n) {$/;"	f	signature:(int n)
+optimal_summands	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.py	/^def optimal_summands(n):$/;"	f	access:public
+optimal_value	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  double optimal_value = get_optimal_value(capacity, weights, values);$/;"	l
+optimal_weight	week6_dynamic_programming2/1_maximum_amount_of_gold/by_learners/knapsack.rb	/^def optimal_weight(w, weights)$/;"	f
+optimal_weight	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^  std::cout << optimal_weight(W, w) << '\\n';$/;"	p	file:	signature:(W, w)
+optimal_weight	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^int optimal_weight(int W, const vector<int> &w) {$/;"	f	signature:(int W, const vector<int> &w)
+optimal_weight	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py	/^def optimal_weight(W, w):$/;"	f	access:public
+partition2	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static int partition2(int[] a, int l, int r) {$/;"	m	class:Sorting	file:	access:private	signature:(int[] a, int l, int r)
+partition2	week4_divide_and_conquer/3_improving_quicksort/by_learners/sorting.rb	/^def partition2(a, l, r)$/;"	f
+partition2	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^int partition2(vector<int> &a, int l, int r) {$/;"	f	signature:(vector<int> &a, int l, int r)
+partition2	week4_divide_and_conquer/3_improving_quicksort/sorting.py	/^def partition2(a, l, r):$/;"	f	access:public
+partition2	week4_divide_and_conquer/submissions/sorting.cpp	/^int partition2(vector<int> &a, int l, int r) {$/;"	f	signature:(vector<int> &a, int l, int r)
+partition3	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static int[] partition3(int[] a, int l, int r) {$/;"	m	class:Sorting	file:	access:private	signature:(int[] a, int l, int r)
+partition3	week4_divide_and_conquer/3_improving_quicksort/by_learners/sorting.rb	/^def partition3(a, l, r)$/;"	f
+partition3	week4_divide_and_conquer/3_improving_quicksort/sorting.py	/^def partition3(a, l, r):$/;"	f	access:public
+partition3	week4_divide_and_conquer/submissions/sorting.cpp	/^int partition3(vector<int> &a, int l, int r) {$/;"	f	signature:(vector<int> &a, int l, int r)
+partition3	week6_dynamic_programming2/2_partitioning_souvenirs/Partition3.java	/^    private static int partition3(int[] A) {$/;"	m	class:Partition3	file:	access:private	signature:(int[] A)
+partition3	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^  std::cout << partition3(A) << '\\n';$/;"	p	file:	signature:(A)
+partition3	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.cpp	/^int partition3(vector<int> &A) {$/;"	f	signature:(vector<int> &A)
+partition3	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py	/^def partition3(A):$/;"	f	access:public
+point	week4_divide_and_conquer/submissions/closest.cpp	/^struct point {$/;"	s	file:
+point::x	week4_divide_and_conquer/submissions/closest.cpp	/^  int x, y;$/;"	m	struct:point	file:	access:public
+point::y	week4_divide_and_conquer/submissions/closest.cpp	/^  int x, y;$/;"	m	struct:point	file:	access:public
+point_map	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  map<int, vector<int>> point_map;$/;"	l
+points	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^    std::cout << points[i] << " ";$/;"	l
+points	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  vector<int> points = optimal_points(segments);$/;"	l
+points	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  vector<int> points;$/;"	l
+points	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^    points = optimal_points(segments)$/;"	v
+points	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^    std::cin >> points[i];$/;"	l
+points	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  vector<int> points(m);$/;"	p	file:	signature:(m)
+points	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    points = data[2 * n + 2:]$/;"	v
+points	week4_divide_and_conquer/submissions/closest.cpp	/^    vector<point> points;$/;"	m	struct:test	file:	access:public
+points	week4_divide_and_conquer/submissions/closest.cpp	/^  vector<point> points(n);$/;"	p	file:	signature:(n)
+points	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    std::cin >> points[i];$/;"	l
+points	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+points	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<int> points(m);$/;"	p	file:	signature:(m)
+previous	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^    int previous = 0;$/;"	l
+previous	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^    long long previous = 0;$/;"	l
+previous	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^    long long previous = 0;$/;"	l
+previous	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^    long long previous = 0;$/;"	l
+printIntVec	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^void printIntVec(std::vector<int> vec) {$/;"	f	signature:(std::vector<int> vec)
+printTupleVec	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^void printTupleVec(vector<tuple<int, int>> vec) {$/;"	f	signature:(vector<tuple<int, int>> vec)
+printVec	week4_divide_and_conquer/submissions/closest.cpp	/^void printVec(std::vector<point> vec) {$/;"	f	signature:(std::vector<point> vec)
+printVec	week4_divide_and_conquer/submissions/sorting.cpp	/^void printVec(std::vector<int> vec, int l, int r) {$/;"	f	signature:(std::vector<int> vec, int l, int r)
+push_back	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^    points.push_back(segments[i].end);$/;"	p	file:	signature:(segments[i].end)
+push_back	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^    points.push_back(segments[i].start);$/;"	p	file:	signature:(segments[i].start)
+push_back	week4_divide_and_conquer/submissions/closest.cpp	/^    if(abs(points[i].x - points[mid].x) < m) closerY.push_back(points[i]);$/;"	p	file:	signature:(points[i])
+push_back	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    point_map[points[i]].push_back(i);$/;"	p	file:	signature:(i)
+push_back	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^    sequence.push_back(n);$/;"	p	file:	signature:(n)
+random	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static Random random = new Random();$/;"	f	class:Sorting	file:	access:private
+random	week4_divide_and_conquer/3_improving_quicksort/sorting.py	/^import random$/;"	i
+randomizedQuickSort	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^    private static void randomizedQuickSort(int[] a, int l, int r) {$/;"	m	class:Sorting	file:	access:private	signature:(int[] a, int l, int r)
+randomized_quick_sort	week4_divide_and_conquer/3_improving_quicksort/by_learners/sorting.rb	/^def randomized_quick_sort(a, l, r)$/;"	f
+randomized_quick_sort	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^void randomized_quick_sort(vector<int> &a, int l, int r) {$/;"	f	signature:(vector<int> &a, int l, int r)
+randomized_quick_sort	week4_divide_and_conquer/3_improving_quicksort/sorting.py	/^def randomized_quick_sort(a, l, r):$/;"	f	access:public
+randomized_quick_sort	week4_divide_and_conquer/submissions/sorting.cpp	/^void randomized_quick_sort(vector<int> &a, int l, int r) {$/;"	f	signature:(vector<int> &a, int l, int r)
+readLine	week1_programming_challenges/1_sum_of_two_digits/APlusB.js	/^function readLine (line) {$/;"	f
+reader	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static BufferedReader reader;$/;"	f	class:Closest	access:default
+readline	week1_programming_challenges/1_sum_of_two_digits/APlusB.js	/^var readline = require('readline');$/;"	v
+result	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    int result = MaxPairwiseProduct(numbers);$/;"	l
+result	week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.cpp	/^    std::cout << result << "\\n";$/;"	l
+result	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  long long result = 0;$/;"	l
+result	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  ret >> result;$/;"	l
+result	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  string result;$/;"	l
+result	week4_divide_and_conquer/submissions/closest.cpp	/^    double result = minimal_distance(tests[i].points);$/;"	l
+result	week4_divide_and_conquer/submissions/inversions.cpp	/^    int result = merge_sort(&tests[i].input[0], 0, tests[i].input.size()-1);$/;"	l
+result	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> result = fast_count_segments2(tests[i].starts, tests[i].ends, tests[i].points);$/;"	l
+ret	week3_greedy_algorithms/6_maximum_salary/largest_number.cpp	/^  std::stringstream ret;$/;"	l
+right	week4_divide_and_conquer/1_binary_search/binary_search.cpp	/^  int left = 0, right = (int)a.size(); $/;"	l
+rl	week1_programming_challenges/1_sum_of_two_digits/APlusB.js	/^var rl = readline.createInterface({$/;"	v
+s	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.cpp	/^  std::cin >> s;$/;"	l
+s	week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.cpp	/^  string s;$/;"	l
+segments	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  vector<Segment> segments(n);$/;"	p	file:	signature:(n)
+segments	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^    segments = list(map(lambda x: Segment(x[0], x[1]), zip(data[::2], data[1::2])))$/;"	v
+sequence	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^    std::cout << sequence[i] << " ";$/;"	l
+sequence	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^  std::vector<int> sequence;$/;"	l
+sequence	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^  vector<int> sequence = optimal_sequence(n);$/;"	l
+sequence	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py	/^sequence = list(optimal_sequence(n))$/;"	v
+size	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  std::cout << points.size() << "\\n";$/;"	p	file:	signature:()
+size	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^  std::cout << summands.size() << '\\n';$/;"	p	file:	signature:()
+sort	week4_divide_and_conquer/submissions/closest.cpp	/^    std::sort(tests[i].points.begin(), tests[i].points.end(), [](point a, point b) { return a.x < b.x; });$/;"	p	class:std	file:	signature:(tests[i].points.begin(), tests[i].points.end(), [](point a, point b) { return a.x < b.x; })
+sort	week4_divide_and_conquer/submissions/closest.cpp	/^  std::sort(closerY.begin(), closerY.end(), [](point a, point b) { return a.y < b.y; });$/;"	p	class:std	file:	signature:(closerY.begin(), closerY.end(), [](point a, point b) { return a.y < b.y; })
+sort	week4_divide_and_conquer/submissions/closest.cpp	/^  std::sort(points.begin(), points.end(), [](point a, point b) { return a.x < b.x; });$/;"	p	class:std	file:	signature:(points.begin(), points.end(), [](point a, point b) { return a.x < b.x; })
+sort	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::sort(ends.begin(), ends.end());$/;"	p	class:std	file:	signature:(ends.begin(), ends.end())
+sort	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::sort(starts.begin(), starts.end());$/;"	p	class:std	file:	signature:(starts.begin(), starts.end())
+sort	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::sort(weightedPoints.begin(), weightedPoints.end(), sortWeightedPoint);$/;"	p	class:std	file:	signature:(weightedPoints.begin(), weightedPoints.end(), sortWeightedPoint)
+sortWeightedPoint	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^bool sortWeightedPoint(tuple<int, int> a, tuple<int, int> b) {$/;"	f	signature:(tuple<int, int> a, tuple<int, int> b)
+st	week1_programming_challenges/2_maximum_pairwise_product/MaxPairwiseProduct.java	/^        StringTokenizer st;$/;"	f	class:MaxPairwiseProduct.FastScanner	access:default
+st	week4_divide_and_conquer/1_binary_search/BinarySearch.java	/^        StringTokenizer st;$/;"	f	class:BinarySearch.FastScanner	access:default
+st	week4_divide_and_conquer/2_majority_element/MajorityElement.java	/^        StringTokenizer st;$/;"	f	class:MajorityElement.FastScanner	access:default
+st	week4_divide_and_conquer/3_improving_quicksort/Sorting.java	/^        StringTokenizer st;$/;"	f	class:Sorting.FastScanner	access:default
+start	week3_greedy_algorithms/4_collecting_signatures/CoveringSegments.java	/^        int start, end;$/;"	f	class:CoveringSegments.Segment	access:default
+start	week3_greedy_algorithms/4_collecting_signatures/covering_segments.cpp	/^  int start, end;$/;"	m	struct:Segment	file:	access:public
+starts	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.cpp	/^  vector<int> starts(n), ends(n);$/;"	p	file:	signature:(n)
+starts	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^    starts = data[2:2 * n + 2:2]$/;"	v
+starts	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+starts	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<int> starts(n), ends(n);$/;"	p	file:	signature:(n)
+std::endl	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.cpp	/^  std::cout << gcd_naive(a, b) << std::endl;$/;"	m	class:std	file:
+std::endl	week2_algorithmic_warmup/4_least_common_multiple/lcm.cpp	/^  std::cout << lcm_naive(a, b) << std::endl;$/;"	m	class:std	file:
+std::endl	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  std::cout << optimal_value << std::endl;$/;"	m	class:std	file:
+std::endl	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.cpp	/^  std::cout << max_dot_product(a, b) << std::endl;$/;"	m	class:std	file:
+std::endl	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.cpp	/^  std::cout << sequence.size() - 1 << std::endl;$/;"	m	class:std	file:
+std::endl	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^  std::cout << edit_distance(str1, str2) << std::endl;$/;"	m	class:std	file:
+std::endl	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.cpp	/^  std::cout << lcs2(a, b) << std::endl;$/;"	m	class:std	file:
+std::endl	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.cpp	/^  std::cout << lcs3(a, b, c) << std::endl;$/;"	m	class:std	file:
+std::fixed	week4_divide_and_conquer/6_closest_points/closest.cpp	/^  std::cout << std::fixed;$/;"	m	class:std	file:
+std::fixed	week4_divide_and_conquer/submissions/closest.cpp	/^  std::cout << std::fixed;$/;"	m	class:std	file:
+std::get_majority_element	week4_divide_and_conquer/2_majority_element/majority_element.cpp	/^  std::cout << (get_majority_element(a, 0, a.size()) != -1) << '\\n';$/;"	p	class:std	file:	signature:(a, 0, a.size())
+std::get_majority_element	week4_divide_and_conquer/submissions/majority_element.cpp	/^  std::cout << (get_majority_element(a) != -1) << '\\n';$/;"	p	class:std	file:	signature:(a)
+std::sort	week4_divide_and_conquer/submissions/closest.cpp	/^    std::sort(tests[i].points.begin(), tests[i].points.end(), [](point a, point b) { return a.x < b.x; });$/;"	p	class:std	file:	signature:(tests[i].points.begin(), tests[i].points.end(), [](point a, point b) { return a.x < b.x; })
+std::sort	week4_divide_and_conquer/submissions/closest.cpp	/^  std::sort(closerY.begin(), closerY.end(), [](point a, point b) { return a.y < b.y; });$/;"	p	class:std	file:	signature:(closerY.begin(), closerY.end(), [](point a, point b) { return a.y < b.y; })
+std::sort	week4_divide_and_conquer/submissions/closest.cpp	/^  std::sort(points.begin(), points.end(), [](point a, point b) { return a.x < b.x; });$/;"	p	class:std	file:	signature:(points.begin(), points.end(), [](point a, point b) { return a.x < b.x; })
+std::sort	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::sort(ends.begin(), ends.end());$/;"	p	class:std	file:	signature:(ends.begin(), ends.end())
+std::sort	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::sort(starts.begin(), starts.end());$/;"	p	class:std	file:	signature:(starts.begin(), starts.end())
+std::sort	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  std::sort(weightedPoints.begin(), weightedPoints.end(), sortWeightedPoint);$/;"	p	class:std	file:	signature:(weightedPoints.begin(), weightedPoints.end(), sortWeightedPoint)
+stdin	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.py	/^from sys import stdin$/;"	i
+str1	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^  string str1;$/;"	l
+str2	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^  std::cin >> str1 >> str2;$/;"	l
+str2	week5_dynamic_programming1/3_edit_distance/edit_distance.cpp	/^  string str2;$/;"	l
+sum	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^    long long sum      = 1;$/;"	l
+sum	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    long long sum = 0;$/;"	l
+sum	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^    long long sum      = 1;$/;"	l
+sumOfTwoDigits	week1_programming_challenges/1_sum_of_two_digits/APlusB.java	/^    static int sumOfTwoDigits(int first_digit, int second_digit) {$/;"	m	class:APlusB	access:default	signature:(int first_digit, int second_digit)
+sum_of_two_digits	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^    std::cout << sum_of_two_digits(a, b);$/;"	p	file:	signature:(a, b)
+sum_of_two_digits	week1_programming_challenges/1_sum_of_two_digits/APlusB.cpp	/^int sum_of_two_digits(int first_digit, int second_digit) {$/;"	f	signature:(int first_digit, int second_digit)
+sum_of_two_digits	week1_programming_challenges/1_sum_of_two_digits/APlusB.py	/^def sum_of_two_digits(first_digit, second_digit):$/;"	f	access:public
+summands	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^    std::cout << summands[i] << ' ';$/;"	l
+summands	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^  vector<int> summands = optimal_summands(n);$/;"	l
+summands	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.cpp	/^  vector<int> summands;$/;"	l
+summands	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.py	/^    summands = optimal_summands(n)$/;"	v
+sys	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.py	/^import sys$/;"	i
+sys	week2_algorithmic_warmup/3_greatest_common_divisor/gcd.py	/^import sys$/;"	i
+sys	week2_algorithmic_warmup/4_least_common_multiple/lcm.py	/^import sys$/;"	i
+sys	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.py	/^import sys$/;"	i
+sys	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.py	/^import sys$/;"	i
+sys	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.py	/^import sys$/;"	i
+sys	week3_greedy_algorithms/1_money_change/change.py	/^import sys$/;"	i
+sys	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py	/^import sys$/;"	i
+sys	week3_greedy_algorithms/3_maximum_advertisement_revenue/dot_product.py	/^import sys$/;"	i
+sys	week3_greedy_algorithms/4_collecting_signatures/covering_segments.py	/^import sys$/;"	i
+sys	week3_greedy_algorithms/5_maximum_number_of_prizes/different_summands.py	/^import sys$/;"	i
+sys	week3_greedy_algorithms/6_maximum_salary/largest_number.py	/^import sys$/;"	i
+sys	week4_divide_and_conquer/1_binary_search/binary_search.py	/^import sys$/;"	i
+sys	week4_divide_and_conquer/2_majority_element/majority_element.py	/^import sys$/;"	i
+sys	week4_divide_and_conquer/3_improving_quicksort/sorting.py	/^import sys$/;"	i
+sys	week4_divide_and_conquer/4_number_of_inversions/inversions.py	/^import sys$/;"	i
+sys	week4_divide_and_conquer/5_organizing_a_lottery/points_and_segments.py	/^import sys$/;"	i
+sys	week4_divide_and_conquer/6_closest_points/closest.py	/^import sys$/;"	i
+sys	week5_dynamic_programming1/1_money_change_again/change_dp.py	/^import sys$/;"	i
+sys	week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py	/^import sys$/;"	i
+sys	week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences/lcs2.py	/^import sys$/;"	i
+sys	week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py	/^import sys$/;"	i
+sys	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py	/^import sys$/;"	i
+sys	week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py	/^import sys$/;"	i
+test	week4_divide_and_conquer/submissions/closest.cpp	/^  struct test {$/;"	s	file:
+test	week4_divide_and_conquer/submissions/inversions.cpp	/^  struct test {$/;"	s	file:
+test	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  struct test {$/;"	s	file:
+test::ends	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+test::expected	week4_divide_and_conquer/submissions/closest.cpp	/^    double expected;$/;"	m	struct:test	file:	access:public
+test::expected	week4_divide_and_conquer/submissions/inversions.cpp	/^    int expected;$/;"	m	struct:test	file:	access:public
+test::expected	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+test::input	week4_divide_and_conquer/submissions/inversions.cpp	/^    vector<int> input;$/;"	m	struct:test	file:	access:public
+test::points	week4_divide_and_conquer/submissions/closest.cpp	/^    vector<point> points;$/;"	m	struct:test	file:	access:public
+test::points	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+test::starts	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    vector<int> starts, ends, points, expected;$/;"	m	struct:test	file:	access:public
+test::title	week4_divide_and_conquer/submissions/closest.cpp	/^    string title;$/;"	m	struct:test	file:	access:public
+test::title	week4_divide_and_conquer/submissions/inversions.cpp	/^    std::string title;$/;"	m	struct:test	file:	access:public
+test::title	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    string title;$/;"	m	struct:test	file:	access:public
+test_solution	week2_algorithmic_warmup/1_fibonacci_number/fibonacci.cpp	/^void test_solution() {$/;"	f	signature:()
+test_solution	week4_divide_and_conquer/submissions/binary_search.cpp	/^void test_solution() {$/;"	f	signature:()
+test_solution	week4_divide_and_conquer/submissions/closest.cpp	/^void test_solution() {$/;"	f	signature:()
+test_solution	week4_divide_and_conquer/submissions/inversions.cpp	/^void test_solution() {$/;"	f	signature:()
+test_solution	week4_divide_and_conquer/submissions/majority_element.cpp	/^void test_solution() {$/;"	f	signature:()
+test_solution	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^void test_solution() {$/;"	f	signature:()
+test_solution	week4_divide_and_conquer/submissions/sorting.cpp	/^void test_solution() {$/;"	f	signature:()
+tests	week4_divide_and_conquer/submissions/closest.cpp	/^  vector<test> tests = vector<test>{$/;"	l
+tests	week4_divide_and_conquer/submissions/inversions.cpp	/^  vector<test> tests = {$/;"	l
+tests	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<test> tests = {$/;"	l
+title	week4_divide_and_conquer/submissions/closest.cpp	/^    string title;$/;"	m	struct:test	file:	access:public
+title	week4_divide_and_conquer/submissions/inversions.cpp	/^    std::string title;$/;"	m	struct:test	file:	access:public
+title	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    string title;$/;"	m	struct:test	file:	access:public
+tmp	week4_divide_and_conquer/submissions/inversions.cpp	/^  int tmp[high-low+1];$/;"	l
+tmp_previous	week2_algorithmic_warmup/2_last_digit_of_fibonacci_number/fibonacci_last_digit.cpp	/^        int tmp_previous = previous;$/;"	l
+tmp_previous	week2_algorithmic_warmup/5_fibonacci_number_again/fibonacci_huge.cpp	/^        long long tmp_previous = previous;$/;"	l
+tmp_previous	week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.cpp	/^        long long tmp_previous = previous;$/;"	l
+tmp_previous	week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp	/^        long long tmp_previous = previous;$/;"	l
+to	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    long long from, to;$/;"	l
+to	week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp	/^    std::cin >> from >> to;$/;"	l
+tok	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static StringTokenizer tok = new StringTokenizer("");$/;"	f	class:Closest	access:default
+type	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    int type = std::get<1>(vec[i]);$/;"	l
+type	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    int type = std::get<1>(weightedPoints[i]);$/;"	l
+type	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int type = std::get<1>(a[mid]);$/;"	l
+typeStr	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    std::cout << " " << v << "(" << typeStr << ") ";$/;"	l
+typeStr	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    string typeStr;$/;"	l
+v	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    int v = std::get<0>(vec[i]);$/;"	l
+v	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  int v = std::get<0>(a[mid]);$/;"	l
+val	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^    int val = std::get<0>(weightedPoints[i]);$/;"	l
+value	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  double value = 0.0;$/;"	l
+values	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  vector<int> values(n);$/;"	p	file:	signature:(n)
+values	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py	/^    values = data[2:(2 * n + 2):2]$/;"	v
+vec	week4_divide_and_conquer/submissions/sorting.cpp	/^  std::vector<int> vec;$/;"	l
+w	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^    std::cin >> w[i];$/;"	l
+w	week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.cpp	/^  vector<int> w(n);$/;"	p	file:	signature:(n)
+weightedPoints	week4_divide_and_conquer/submissions/points_and_segments.cpp	/^  vector<tuple<int, int>> weightedPoints(starts.size() + ends.size() + points.size());$/;"	p	file:	signature:(starts.size() + ends.size() + points.size())
+weights	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^    std::cin >> values[i] >> weights[i];$/;"	l
+weights	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp	/^  vector<int> weights(n);$/;"	p	file:	signature:(n)
+weights	week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py	/^    weights = data[3:(2 * n + 2):2]$/;"	v
+writer	week4_divide_and_conquer/6_closest_points/Closest.java	/^    static PrintWriter writer;$/;"	f	class:Closest	access:default
+x	week4_divide_and_conquer/3_improving_quicksort/sorting.cpp	/^  int x = a[l];$/;"	l
+x	week4_divide_and_conquer/6_closest_points/Closest.java	/^        long x, y;$/;"	f	class:Closest.Point	access:default
+x	week4_divide_and_conquer/6_closest_points/closest.cpp	/^  vector<int> x(n);$/;"	p	file:	signature:(n)
+x	week4_divide_and_conquer/submissions/closest.cpp	/^  int x, y;$/;"	m	struct:point	file:	access:public
+x	week4_divide_and_conquer/submissions/sorting.cpp	/^  int x = a[l];$/;"	l
+x	week4_divide_and_conquer/submissions/sorting.cpp	/^  int x=a[l],i=l-1,j=r+1;$/;"	l
+y	week4_divide_and_conquer/6_closest_points/Closest.java	/^        long x, y;$/;"	f	class:Closest.Point	access:default
+y	week4_divide_and_conquer/6_closest_points/closest.cpp	/^    std::cin >> x[i] >> y[i];$/;"	l
+y	week4_divide_and_conquer/6_closest_points/closest.cpp	/^  vector<int> y(n);$/;"	p	file:	signature:(n)
+y	week4_divide_and_conquer/submissions/closest.cpp	/^  int x, y;$/;"	m	struct:point	file:	access:public
